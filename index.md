@@ -15,5 +15,5 @@ The baseline is the reproduction of [Kaneko et.al](https://arxiv.org/abs/1711.11
 
 #### source 
 <audio controls="controls">
-<source type="audio/mp3" src="filename.mp3"></source>
+<source type="audio/wav" src="res/225_330.wav"></source>
 </audio>
