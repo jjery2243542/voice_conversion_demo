@@ -1,6 +1,6 @@
 # Introduction
 
-This is the demo webpage for the expiriments in [Multi-target Voice Conversion without parallel data by Adversarially Learning Disentangled Audio Representations]().
+This is the demo webpage for the expiriments in [Multi-target Voice Conversion without parallel data by Adversarially Learning Disentangled Audio Representations](https://arxiv.org/abs/1804.02812).
 
 ## Abstract 
 
@@ -13,7 +13,67 @@ The baseline is the reproduction of [Kaneko et.al](https://arxiv.org/abs/1711.11
 
 ## Speech sample
 
-#### source 
+### Female to male
+##### source 
 <audio controls="controls">
-<source type="audio/wav" src="res/225_330.wav"></source>
+<source type="audio/wav" src="res/src/p225_331.wav"></source>
+</audio>
+##### target 
+<audio controls="controls">
+<source type="audio/wav" src="res/tar/p226_337.wav"></source>
+</audio>
+##### converted 
+<audio controls="controls">
+<source type="audio/wav" src="res/con/225_331.wav"></source>
+</audio>
+### Male to female
+##### source 
+<audio controls="controls">
+<source type="audio/wav" src="res/src/p226_337.wav"></source>
+</audio>
+##### target 
+<audio controls="controls">
+<source type="audio/wav" src="res/tar/p225_331.wav"></source>
+</audio>
+##### converted 
+<audio controls="controls">
+<source type="audio/wav" src="res/con/226_337.wav"></source>
+</audio>
+
+### For fun
+##### source 
+<audio controls="controls">
+<source type="audio/mp3" src="res/src/welcome_en3.mp3"></source>
+</audio>
+##### target 
+<audio controls="controls">
+<source type="audio/wav" src="res/tar/p228_001.wav"></source>
+</audio>
+##### converted 
+<audio controls="controls">
+<source type="audio/wav" src="res/con/welcome_en1.mp3.wav.npy.wav"></source>
+</audio>
+##### source 
+<audio controls="controls">
+<source type="audio/mp3" src="res/src/welcome_ch3.mp3"></source>
+</audio>
+##### target 
+<audio controls="controls">
+<source type="audio/wav" src="res/tar/p228_001.wav"></source>
+</audio>
+##### converted 
+<audio controls="controls">
+<source type="audio/wav" src="res/con/welcome_ch1.mp3.wav.npy.wav"></source>
+</audio>
+##### source 
+<audio controls="controls">
+<source type="audio/mp3" src="res/src/phd_ch1.mp3"></source>
+</audio>
+##### target 
+<audio controls="controls">
+<source type="audio/wav" src="res/tar/p228_001.wav"></source>
+</audio>
+##### converted 
+<audio controls="controls">
+<source type="audio/wav" src="res/con/phd_ch1.mp3.wav.npy.wav"></source>
 </audio>
