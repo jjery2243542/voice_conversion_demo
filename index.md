@@ -26,6 +26,18 @@ The baseline is the reproduction of [Kaneko et.al](https://arxiv.org/abs/1711.11
 <audio controls="controls">
 <source type="audio/wav" src="res/con/225_331.wav"></source>
 </audio>
+##### source 
+<audio controls="controls">
+<source type="audio/wav" src="res/src/p228_337.wav"></source>
+</audio>
+##### target 
+<audio controls="controls">
+<source type="audio/wav" src="res/tar/p243_363.wav"></source>
+</audio>
+##### converted 
+<audio controls="controls">
+<source type="audio/wav" src="res/con/228_243_367.wav"></source>
+</audio>
 ### Male to female
 ##### source 
 <audio controls="controls">
@@ -38,6 +50,18 @@ The baseline is the reproduction of [Kaneko et.al](https://arxiv.org/abs/1711.11
 ##### converted 
 <audio controls="controls">
 <source type="audio/wav" src="res/con/226_337.wav"></source>
+</audio>
+##### source 
+<audio controls="controls">
+<source type="audio/wav" src="res/src/p227_363.wav"></source>
+</audio>
+##### target 
+<audio controls="controls">
+<source type="audio/wav" src="res/tar/p228_001.wav"></source>
+</audio>
+##### converted 
+<audio controls="controls">
+<source type="audio/wav" src="res/con/227_228_363.wav"></source>
 </audio>
 
 ### For fun
