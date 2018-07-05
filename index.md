@@ -28,15 +28,15 @@ The baseline is the reproduction of [Kaneko et.al](https://arxiv.org/abs/1711.11
 </audio>
 ##### source 
 <audio controls="controls">
-<source type="audio/wav" src="res/src/p228_367.wav"></source>
+<source type="audio/wav" src="res/src/p228_369.wav"></source>
 </audio>
 ##### target 
 <audio controls="controls">
-<source type="audio/wav" src="res/tar/p243_363.wav"></source>
+<source type="audio/wav" src="res/tar/p227_365.wav"></source>
 </audio>
 ##### converted 
 <audio controls="controls">
-<source type="audio/wav" src="res/con/228_243_367.wav"></source>
+<source type="audio/wav" src="res/con/228_227_369.wav"></source>
 </audio>
 ### Male to female
 ##### source 
