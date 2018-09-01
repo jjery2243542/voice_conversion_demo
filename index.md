@@ -39,6 +39,10 @@ The baseline is the reproduction of [Kaneko et.al](https://arxiv.org/abs/1711.11
 <audio controls="controls">
 <source type="audio/wav" src="res/con/225_228_366.wav"></source>
 </audio>
+##### stage 1 alone 
+<audio controls="controls">
+<source type="audio/wav" src="res/con/225_228_366_stage1.wav"></source>
+</audio>
 
 ### Female to male
 ##### source 
